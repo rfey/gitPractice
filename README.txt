@@ -1,7 +1,7 @@
 # rmf 8.3.2018
 
 # git workshop OSU Library
-# Clara Llebot
+# presenter: Clara Llebot
 
 software carpentry lesson... original version available, see link under general information
 
@@ -21,3 +21,4 @@ changes to be committed new file: = git is now following this file
 commit = git is saving this specific version of the file
 
 working directory clean = everything is saved in git
+
