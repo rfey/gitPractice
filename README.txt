@@ -5,3 +5,4 @@
 
 # notes in email
 
+# repository is on github as well
